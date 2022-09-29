@@ -16,6 +16,13 @@ Express.js server accessing SQLite Database with the following routes
 |Create Game Ad|**`POST`**|/games/**`<id>`**/ads|*None*|*None*|
 |List Game Ads|**`GET`**|/games/**`<id>`**/ads|*None*|*None*|
 |Discord of Ad|**`GET`**|/ads/**`<id>`**/discord|*None*|*None*|
+
+#### Next Updates
+* `Responsive`
+* `Slider`
+* `Validations`
+* `Radix select`
+* `Discord login`
 ## React
 
 ## React Native
